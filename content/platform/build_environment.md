@@ -10,7 +10,7 @@ In the Cloud9 workspace, run the following commands:
 
 ```
 cd ~/environment
-git clone https://github.com/brentley/container-demo
+git clone https://github.com/sguillory6/container-demo
 ```
 
 - Ensure service linked roles exist for Load Balancers and ECS:
